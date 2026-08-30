@@ -51,11 +51,11 @@ Week 5: Analysis & Solution Design (Upcoming)
 Focus: Complete the data cleaning pipeline, handle missing values/outliers defensively, and begin executing descriptive statistics and exploratory data analysis (EDA).
 Goals: Uncover preliminary trends regarding no-show behavior and design initial mockup wireframes for the dashboard.
 
-# Week 6: Development (Upcoming)
+### Week 6: Development (Upcoming)
 Focus: In-depth querying, cohort analysis, and developing final interactive visualization dashboards.
-# Week 7: Testing & Refinement (Upcoming)
+### Week 7: Testing & Refinement (Upcoming)
 Focus: Stress-test the analytical models, validate dashboard calculations against the raw data dictionary, and refine visuals for business-user accessibility.
-# Week 8: Final Presentation (Upcoming)
+### Week 8: Final Presentation (Upcoming)
 Focus: Package insights into a highly professional slide deck and present recommendations to clinic stakeholders.
 ⚠️ Assumptions, Limitations, & Risks
 Preservation of Data: All raw data files will remain completely unaltered. Cleaned or merged outputs will be saved separately under data/processed/.
