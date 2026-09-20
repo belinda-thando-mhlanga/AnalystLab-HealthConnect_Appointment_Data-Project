@@ -17,7 +17,7 @@ Week 7 was about **testing everything built in previous weeks**. Instead of prod
 |------|-------------|
 | `Week7_HealthConnect_DataAnalytics.ipynb` | Main Week 7 testing and refinement notebook |
 | `Week7_ProjectReport_HealthConnect.docx` | 16-page project report |
-| `HealthConnect_Dashboard.html` | Interactive 5-page analytics dashboard |
+| `HealthConnect_Dashboard pictures` | Interactive 5-page analytics dashboard |
 | `chart_w7_01_december_by_type.png` | December 2025 no-show rate by appointment type |
 | `chart_w7_02_highrisk_by_type.png` | High Risk patient no-show rate by appointment type |
 | `chart_w7_03_waiting_time.png` | Average waiting time by type and day of week |
